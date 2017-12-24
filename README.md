@@ -1,2 +1,3 @@
-# Discord-Theme-Stuff
-.css for a discord theme.
+# Merk's Discord Theme
+Stuff for my discord theme.
+Totally didn't copy anything.
