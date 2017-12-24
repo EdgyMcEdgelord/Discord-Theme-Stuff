@@ -1,6 +1,6 @@
-@import url(https://raw.githubusercontent.com/EdgyMcEdgelord/Discord-Theme-Stuff/master/Discord-MerkTheme-5);
-@import url(https://raw.githubusercontent.com/EdgyMcEdgelord/Discord-Theme-Stuff/master/Discord-MerkTheme-4);
-@import url("https://raw.githubusercontent.com/EdgyMcEdgelord/Discord-Theme-Stuff/master/Discord-MerkTheme-3");
+@import url(https://rawgit.com/EdgyMcEdgelord/Merks-Theme/master/Discord-MerkTheme-5);
+@import url(https://rawgit.com/EdgyMcEdgelord/Merks-Theme/master/Discord-MerkTheme-4);
+@import url("https://rawgit.com/EdgyMcEdgelord/Merks-Theme/master/Discord-MerkTheme-3");
 
 :root {
     --version-content: "7.5";
