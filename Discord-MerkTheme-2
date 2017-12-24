@@ -1,6 +1,6 @@
-@import url(https://fonts.googleapis.com/css?family=Satisfy);
-@import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,400i);
-@import url("https://rawgit.com/0mniscient/Discord-Themes/master/css/Tags.css");
+@import url(https://raw.githubusercontent.com/EdgyMcEdgelord/Discord-Theme-Stuff/master/Discord-MerkTheme-5);
+@import url(https://raw.githubusercontent.com/EdgyMcEdgelord/Discord-Theme-Stuff/master/Discord-MerkTheme-4);
+@import url("https://raw.githubusercontent.com/EdgyMcEdgelord/Discord-Theme-Stuff/master/Discord-MerkTheme-3");
 
 :root {
     --version-content: "7.5";
