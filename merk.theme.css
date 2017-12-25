@@ -1,0 +1,12 @@
+//META{"name":"Merk's Theme","description":"Dank theme my dood.","author":"Merk","version":"1.2"}*//
+
+/* IMPORT CSS FROM GITHUB */
+@import url("https://rawgit.com/EdgyMcEdgelord/Merks-Discord-Theme/master/Merk1_v1.3.css");
+
+:root { 
+	--main-color: #9F000F;
+	--hover-color: #9F000F;
+ }
+
+.app, .callout-backdrop, .userPopout-4pfA0d::before { background-image: url("https://kazasou.files.wordpress.com/2014/08/konachan-com-186580-bicolored_eyes-black_hair-choker-date_a_live-dress-gun-headdress-long_hair-red_eyes-tokisaki_kurumi-twintails-weapon-yellow_eyes-youran_yui081128.jpg") !important; background-size: cover !important; }
+
