@@ -1,9 +1,9 @@
-@import url(https://rawgit.com/EdgyMcEdgelord/Merks-Discord-Theme/master/5.css);
-@import url(https://rawgit.com/EdgyMcEdgelord/Merks-Discord-Theme/master/4.css);
-@import url("https://rawgit.com/EdgyMcEdgelord/Merks-Discord-Theme/master/3.css");
+@import url(https://rawgit.com/EdgyMcEdgelord/Merks-Discord-Theme/master/other-1.css);
+@import url(https://rawgit.com/EdgyMcEdgelord/Merks-Discord-Theme/master/other-2.css);
+@import url("https://rawgit.com/EdgyMcEdgelord/Merks-Discord-Theme/master/other-3.css");
 
 :root {
-    --version-content: "1.4";
+    --version-content: "";
     --theme-name: "Mörk";
     --theme-letter: "M";
 }
@@ -16,8 +16,6 @@
 .version:after{content:var(--version-content);display:block;font-size:14px;font-weight:700;color:#43B581;}
 
 .need-help-modal .header h1::after{content:var(--theme-name)" v" var(--version-content);color:#fff;font-weight:700;font-size:250%;z-index:11;position:absolute;width:200%;left: 0px;margin-left: -45px;top: 16px;font-family:Satisfy;text-shadow:1px 1px 1px rgba(0, 0, 0, 0.4);}
-
-#bd-settingspane-container .content-column.default .ui-form-title.h2::after{content: "Hi, I have a server where I post customizable options for the theme and \A you can give me feedback, also with tons of bots. Join the server at \A\A discord.me/mrrobotserver \A\A It's also easier to report bugs and has a higher chance of getting them \A fixed faster.";}
 
 .themedescription{display:block;width:100%;margin-right:5px;}
 
